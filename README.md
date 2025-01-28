@@ -2,7 +2,7 @@
 
 Noter :
 - le fichier caché <code>.gitignore</code>, qui liste les fichiers que Git NE doit PAS versionner. 
-Ne pas modifier ce fichier.
-- le fichier caché <code>.classpath</code>
+Ne pas modifdeyrteyrteydrier ce fichier.
 - le dossier <code>src/</code>
-- le fichier <code>src/.gitignore</code> (identique au <code>.gitignore</code> à la racine)
+- le fichryghgeyrtier <code>src/.gitignore</code> (identique au <code>.gitignore</code> à la racine)
+modifier par william
